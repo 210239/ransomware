@@ -1,0 +1,51 @@
+body {
+	width:				1000px;
+	margin:				auto;
+	margin-bottom:		20px;
+	background-color:	rgb(205, 239, 255);
+			}
+h1 {
+		color:	white;
+		background-color: red;
+		font-size: 3em;			
+			}
+			
+h2 {
+		color: 		blue;
+		font-size:  2em;
+			
+			}	
+				
+img {
+	width:			500px;
+	
+	border:			solid;
+	border-color: 	rgb(0, 0, 255);
+	margin:			auto;
+	margin-left:	250px;
+			}
+
+#vragen {
+color: blue;
+}
+
+.ans {
+color: rgb(210, 210, 210);
+}
+
+a:hover {
+color: red;
+}
+a:active {
+color: red;
+}
+a:focus {
+color: red;
+}
+
+div {
+font-size:	1.2em;
+}
+
+
+
